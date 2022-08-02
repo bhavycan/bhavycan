@@ -1,4 +1,4 @@
-### <h5>Hi there 👋🏽, I,m Bhavy!<h5>
+### <h1>Hi there 👋🏽, I,m Bhavy!<h1>
 
 <!--
 **bhavycan/bhavycan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
