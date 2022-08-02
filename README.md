@@ -11,7 +11,7 @@
   
   
 <h2>🛠 Tech Stack</h2>
-- 🌱 &nbsp; C | C++ | HTML |  CSS |  JavaScript |  SQL | BootStrap | UI/UX design |   Jquery | Node.js | Express | API
+- 🌱 &nbsp; C | C++ | HTML |  CSS |  JavaScript |  SQL | BootStrap | UI/UX design |   Jquery | Node.js | Express | API<br>
 -  📸 &nbsp; Adobe Photoshop | Adobe Premiere Pro | Canva | Balsamiq Cloud
 
 
