@@ -8,6 +8,9 @@
 - 🎓 &nbsp; Student Of Computer Programming Analysis at Seneca college
 - ⌚ &nbsp; Sem:1 GPA --> 3.9/4.0 <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sem:2 GPA --> 4.0/4.0 
+  
+  
+<h2>🛠 Tech Stack</h2>
 - 🌱 &nbsp; C | C++ | HTML |  CSS |  JavaScript |  SQL | BootStrap | UI/UX design |   Jquery | Node.js | Express | API
 -  📸 &nbsp; Adobe Photoshop | Adobe Premiere Pro | Canva | Balsamiq Cloud
 
