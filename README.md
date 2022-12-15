@@ -22,5 +22,7 @@
  |       |  |
 | :----: |    :----:   |
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=bhavycan&show_icons=true&theme=radical)| ![Languages I used mostly](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavycan&layout=compact&theme=radical)|
-
+  
+  
+<br>  
 ![Snake animation](https://github.com/bhavycan/bhavycan/blob/output/github-contribution-grid-snake.svg)
