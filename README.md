@@ -16,4 +16,4 @@
 -  📸 &nbsp; Adobe Photoshop | Adobe Premiere Pro | Canva | Balsamiq Cloud
 
   
-  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
